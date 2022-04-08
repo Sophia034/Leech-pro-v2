@@ -119,7 +119,7 @@
 
 🤧🤧 <b> Before Deploy 𝗣𝗹𝗲𝗮𝘀𝗲 𝗛𝗶𝘁 𝗦𝘁𝗮𝗿𝘀</b>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lx575/Leech-Pro-v2/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sophia034/Leech-Pro-v2/tree/master)
 
 
 [![MaxxRider](https://telegra.ph/file/aac59f2f35ee73b63019e.png)](https://telegram.dog/MaxxRiderz)
